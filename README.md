@@ -9,7 +9,8 @@
 
 ## 📘📚💻
 
--- O projeto consiste numa simples implentação do padrão Strategy para fazer uma soma ou subtração de 2 números.
+-- JAVA
+-- O projeto consiste numa simples implementação do padrão Strategy para fazer uma soma ou subtração de 2 números.
 
 ## Coisas para inserir
 - Números inseridos por usuários.
